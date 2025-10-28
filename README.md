@@ -19,8 +19,8 @@ About Me:
 Featured Projects:
 | Project | Description |
 
-| [ Jarvis AI Assistant](https://github.com/<Aman-6188e>/Jarvis-AI-Assistant) | Smart voice assistant with animated GUI, Edge-TTS, and system automation |
-| [ ESP32 Smart Vault](https://github.com/<your-username>/Smart-Vault) | Secure voice-based IoT vault using ESP32 & sensors *(coming soon)* |
+| [ Jarvis AI Assistant](https://github.com/<Aman-6188e>/JARVIS-AI-ASSISTANT) | Smart voice assistant with animated GUI, Edge-TTS, and system automation |
+| [ ESP32 Smart Vault](https://github.com/<Aman-6188>/Smart-Vault) | Secure voice-based IoT vault using ESP32 & sensors *(coming soon)* |
 
 ---
 
@@ -30,8 +30,8 @@ Python • Tkinter • Edge-TTS • OpenCV • Vosk • SerpAPI • SQLite • E
 ---
 
 Connect with Me:
-[LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/aman-kumar-579215339)  
-[![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail)](mailto:kaman171230@gmail.com)  
+LinkedIn-(www.linkedin.com/in/aman-kumar-579215339)  
+Email-(mailto:kaman171230@gmail.com)  
 
 
 
