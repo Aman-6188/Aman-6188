@@ -20,7 +20,7 @@ Featured Projects:
 | Project | Description |
 
 | [ Jarvis AI Assistant](https://github.com/Aman-6188/JARVIS-AI-ASSISTANT) | Smart voice assistant with animated GUI, Edge-TTS, and system automation |
-| [ ESP32 Smart Vault](https://github.com/Aman-6188/Smart-Vault) | Secure voice-based IoT vault using ESP32 & sensors *(coming soon)* |
+| [ AI Smart vault Saving Bank](https://github.com/Aman-6188/AI-Smart-vault-Saving-Bank) | Vaulto - AI Saving Bank which is Secure voice-based IoT vault using ESP32 & sensors |
 
 ---
 
